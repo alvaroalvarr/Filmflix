@@ -18,6 +18,6 @@ public class Leitura {
 	System.out.println("Seu filme favorito é: " + filmeFavorito + " e sua nota é " + avaliacao); 	
 	} 
 
-
+	leitura.close();
 
 } 
